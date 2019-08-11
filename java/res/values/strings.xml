@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Plant disease</string>
+    <string name="health_notset">Upload photos, press recognise button.</string>
+    <string name="health_val">Health: </string>
+    <string name="model_not_loaded">AI model not loaded</string>
+    <string name="toolbar_image">Image detailes</string>
+    <string name="toolbar_tutorial">Tutorial</string>
+    <string name="button_tutorial">Tutorial >></string>
+
+    <string name="disease_phytophthora">Phytophthora</string>
+
+
+    <string-array name="plant_list">
+        <item>Recognize plant by photo</item>
+        <item>Cucumber</item>
+        <item>Tomato</item>
+    </string-array>
+
+    <string-array name="plant_parts">
+        <item>Undefined</item>
+        <item>Leaf</item>
+        <item>Fruit</item>
+        <item>Stem</item>
+
+    </string-array>
+    <string name="title_activity_image_details">ImageDetailsActivity</string>
+    <string name="title_activity_plant_info">PlantInfoActivity</string>
+</resources>

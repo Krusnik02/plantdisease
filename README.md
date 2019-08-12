@@ -1,4 +1,4 @@
-This is Plant Disease project
+#This is Plant Disease project
 
 Purpose of this project is to develop a solution for plant disease diagnostics via photos.
 
